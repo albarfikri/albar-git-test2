@@ -7,6 +7,6 @@
 </head>
 <body>
     <h1> Git remote testing </h1>
-    
+    <h2> Testing paragraph2 </h2>
 </body>
 </html>
